@@ -1,4 +1,4 @@
-<body background="images/image2.png">
+<body background="images/image3.png">
 <p>
 	<span style="--darkreader-inline-bgcolor: #000000; color: #ff0000; --darkreader-inline-color: #ff1a1a;">
 		<img style="display: block; margin-left: auto; margin-right: auto;" src="images/image1.png" alt=""/>
